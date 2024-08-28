@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"44480b169571a0ce6e196c1982a15966","name":"src\\tests\\forex.test.ts","statistic":{"failed":0,"broken":0,"skipped":0,"passed":12,"unknown":0,"total":12}},{"uid":"47d465b44d8f1c0beaa9c0d044d23eb0","name":"src\\tests\\version1.test.ts","statistic":{"failed":0,"broken":0,"skipped":0,"passed":11,"unknown":0,"total":11}}]}

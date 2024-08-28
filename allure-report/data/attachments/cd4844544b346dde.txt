@@ -1,0 +1,13 @@
+Error fetching exchange rates: TypeError: (0 , _apiUtils.generateCSVReport) is not a function
+    at C:\Users\Hil\kablamo-api-automation\src\tests\forex.test.ts:50:36
+    at C:\Users\Hil\kablamo-api-automation\node_modules\playwright\lib\worker\workerMain.js:339:9
+    at C:\Users\Hil\kablamo-api-automation\node_modules\playwright\lib\worker\testInfo.js:296:11
+    at TimeoutManager.withRunnable (C:\Users\Hil\kablamo-api-automation\node_modules\playwright\lib\worker\timeoutManager.js:53:14)
+    at TestInfoImpl._runAsStage (C:\Users\Hil\kablamo-api-automation\node_modules\playwright\lib\worker\testInfo.js:294:7)
+    at C:\Users\Hil\kablamo-api-automation\node_modules\playwright\lib\worker\workerMain.js:331:7
+    at C:\Users\Hil\kablamo-api-automation\node_modules\playwright\lib\worker\testInfo.js:296:11
+    at TimeoutManager.withRunnable (C:\Users\Hil\kablamo-api-automation\node_modules\playwright\lib\worker\timeoutManager.js:41:27)
+    at TestInfoImpl._runAsStage (C:\Users\Hil\kablamo-api-automation\node_modules\playwright\lib\worker\testInfo.js:294:7)
+    at WorkerMain._runTest (C:\Users\Hil\kablamo-api-automation\node_modules\playwright\lib\worker\workerMain.js:281:5)
+    at WorkerMain.runTestGroup (C:\Users\Hil\kablamo-api-automation\node_modules\playwright\lib\worker\workerMain.js:205:11)
+    at process.<anonymous> (C:\Users\Hil\kablamo-api-automation\node_modules\playwright\lib\common\process.js:95:22)

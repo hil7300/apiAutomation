@@ -1,0 +1,2 @@
+Average exchange rate: 1.0966 CAD to AUD
+Report generated at: C:\Users\Hil\kablamo-api-automation\src\reports\forex_report.csv
